@@ -1,0 +1,53 @@
+L1
+
+Starting reachability analysis
+Finished reachability analysis; # states: 12
+Iterations in inner VI for policy eval: 175
+Iterations in inner VI for policy eval: 13
+Iterations in inner VI for policy eval: 4
+Iterations in inner VI for policy eval: 1
+Total policy iterations: 4
+Steps taken to exit: 8
+Runtime: 185 milliseconds
+Total Reward: 4.3
+
+
+L2
+
+Starting reachability analysis
+Finished reachability analysis; # states: 104
+Iterations in inner VI for policy eval: 206
+Iterations in inner VI for policy eval: 56
+Iterations in inner VI for policy eval: 111
+Iterations in inner VI for policy eval: 16
+Iterations in inner VI for policy eval: 4
+Iterations in inner VI for policy eval: 3
+Iterations in inner VI for policy eval: 1
+Total policy iterations: 7
+Steps taken to exit: 22
+Runtime: 696 milliseconds
+Total Reward: 2.8999999999999995
+
+L3
+
+Starting reachability analysis
+Finished reachability analysis; # states: 800
+Iterations in inner VI for policy eval: 221
+Iterations in inner VI for policy eval: 131
+Iterations in inner VI for policy eval: 66
+Iterations in inner VI for policy eval: 67
+Iterations in inner VI for policy eval: 36
+Iterations in inner VI for policy eval: 86
+Iterations in inner VI for policy eval: 59
+Iterations in inner VI for policy eval: 91
+Iterations in inner VI for policy eval: 94
+Iterations in inner VI for policy eval: 105
+Iterations in inner VI for policy eval: 44
+Iterations in inner VI for policy eval: 96
+Iterations in inner VI for policy eval: 43
+Iterations in inner VI for policy eval: 4
+Iterations in inner VI for policy eval: 1
+Total policy iterations: 15
+Steps taken to exit: 204
+Runtime: 11066 milliseconds
+Total Reward: -15.300000000000018

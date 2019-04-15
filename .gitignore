@@ -1,0 +1,8 @@
+target
+.DS_Store
+*.iml
+~*
+.idea
+breardon6-analysis.*
+!breardon6-analysis.tex
+!breardon6-analysis.pdf

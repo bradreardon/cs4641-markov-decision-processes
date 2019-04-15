@@ -1,0 +1,30 @@
+GRID WORLD, VI
+
+tr=5, sr=-.1, dc=.99
+
+LEVEL 1
+
+Starting reachability analysis
+Finished reachability analysis; # states: 12
+Passes: 11
+Steps taken to exit: 7
+Runtime: 33 milliseconds
+Total Reward: 4.4
+
+LEVEL 2
+
+Starting reachability analysis
+Finished reachability analysis; # states: 104
+Passes: 23
+Steps taken to exit: 29
+Runtime: 123 milliseconds
+Total Reward: 2.199999999999999
+
+LEVEL 3
+
+Starting reachability analysis
+Finished reachability analysis; # states: 800
+Passes: 188
+Steps taken to exit: 212
+Runtime: 1451 milliseconds
+Total Reward: -16.10000000000003
